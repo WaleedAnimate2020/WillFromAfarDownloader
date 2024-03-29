@@ -89,7 +89,7 @@ namespace AcapellaDownloader
 		        new Voice("Will", Gender.Male, "en_us", "enu_will_22k_ns.bvcu"),
 		        new Voice("WillUpClose", Gender.Male, "en_us", "enu_willupclose_22k_ns.bvcu"),
 		        new Voice("WillHappy", Gender.Male, "en_us", "enu_willhappy_22k_ns.bvcu"),
-		        new Voice("Sharon", Gender.Female, "en_us", "enu_sharon_22k_ns.bvcu"),
+		        new Voice("Sharon", Gender.Female, "en_us", "enu_sharona_22k_ns.bvcu"),
 		        new Voice("Karen", Gender.Female, "en_us", "enu_karen_22k_ns.bvcu"),
 		        new Voice("WillSad", Gender.Male, "en_us", "enu_willsad_22k_ns.bvcu"),
 		        new Voice("Josh", Gender.Male, "en_us", "enu_josh_22k_ns.bvcu"),
